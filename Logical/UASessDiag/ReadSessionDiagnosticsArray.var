@@ -1,0 +1,14 @@
+VAR
+	fbUAConnect : UA_Connect;
+	SessionDiagnosticsArrayHdl : DWORD;
+	SessionDiagnosticsArray : SessionDiagnosticsArrayType;
+	fbUaNodeGetHandle : UA_NodeGetHandle;
+	fbUaRead : UA_Read;
+	step : RsdaStepType;
+	SessionConnectInfo : UASessionConnectInfo;
+	ErrorID : DWORD;
+	ServerDiagnosticNodeID : UANodeID;
+	timeout : TIME;
+	ServerDiagnosticVariable : STRING[255];
+	tonRepeat : TON;
+END_VAR

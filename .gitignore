@@ -1,0 +1,6 @@
+# Obsolete Automation Studio files
+/Binaries/
+/Temp/
+/Diagnosis/
+*.set
+*.isopen
