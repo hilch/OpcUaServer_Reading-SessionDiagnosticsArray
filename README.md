@@ -4,9 +4,16 @@
 # OpcUaServer_Reading-SessionDiagnosticsArray
 B&amp;R OPC-UA - Server : Reading SessionDiagnosticsArray
 
+## License
+
+This software published under [MIT license](LICENSE). Also have a look into the [disclaimer](Disclaimer.md).
+
+## Intention
+
 SessionDiagnosticsArray is located at Root/Objects/Server/ServerDiagnostics/SessionsDiagnosticsSummary/ and contains useful information about the connected clients. 
 This is an example for B&amp;R Automation Studio 4.12
 
 For details have a look into the [Online Help](https://help.br-automation.com/#/en/4/libraries%2Fasopcuac%2Ftech_info%2Fhowto%2Fread_session_diagnostics.html)
+
 
 
